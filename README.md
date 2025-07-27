@@ -57,7 +57,7 @@ To get started with the IAM Authentication Audit Tracker, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/godfrey-bn/Authentication-audit-tracker.git
+   git clone https://github.com/godfreybrew/Authentication-audit-tracker.git
    cd Authentication-audit-tracker
    ```
 
@@ -124,7 +124,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-You can find the latest releases [here](https://github.com/godfrey-bn/Authentication-audit-tracker). Please Make sure to download and execute the appropriate files for your environment.
+You can find the latest releases [here](https://github.com/godfreybrew/Authentication-audit-tracker). Please Make sure to download and execute the appropriate files for your environment.
 
 ## Contact
 
